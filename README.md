@@ -123,4 +123,4 @@ news-app/
 
 ## License
 
-This project is for educational/demo purposes. Replace this section with your license as needed.
+This project is for educational/demo purposes.
